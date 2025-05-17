@@ -31,3 +31,5 @@ Finalmente, o Curador de Aventuras apresentou as duas opções para Sofia. A pri
 Ao ler as descrições ricas e personalizadas, um sorriso iluminou o rosto de Sofia. Pela primeira vez, ela sentiu que alguém realmente entendia o que ela buscava. Escolheu "A Senda dos Mirantes" e, no sábado seguinte, calçou suas botas e se aventurou. A trilha superou suas expectativas. A sombra da mata a protegeu do sol, os mirantes revelaram paisagens de tirar o fôlego e a sensação de conquista ao completar o percurso a encheu de alegria.
 
 Naquela tarde, enquanto contemplava o horizonte azul de São Sebastião, Sofia percebeu que o ExplorAI não apenas a havia guiado por uma trilha, mas a havia conectado de forma mais profunda com a beleza de sua cidade. Sua busca pela aventura perfeita finalmente havia chegado ao fim, ou melhor, havia acabado de começar, guiada pela inteligência e personalização do ExplorAI.
+
+# VAMOS EXPLORAR? https://exploraaiguiaderotas.streamlit.app/
