@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-# %pip -q install google-genai
+%pip -q install google-genai
 
 # Configura a API Key do Google Gemini
 
@@ -27,7 +27,7 @@ MODEL_ID = "gemini-2.0-flash"
 
 # Commented out IPython magic to ensure Python compatibility.
 # Instalar Framework ADK de agentes do Google ################################################
-# %pip install -q google-adk
+%pip install -q google-adk
 
 from google.adk.agents import Agent
 from google.adk.runners import Runner
