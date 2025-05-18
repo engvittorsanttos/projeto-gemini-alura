@@ -96,8 +96,8 @@ def agente_avaliador(localizacao, preferencias_rotas, detalhes_opcoes):
 def main():
     st.title("📍 ExplorAI: Rotas, Sabores e Tesouros Locais 🗺️")
 
-    localizacao = st.text_input("Digite a sua LOCALIZAÇÃO:", placeholder=None)
-    preferencias_rotas = st.text_area("Quais são suas PREFERÊNCIAS para a rota? (ex: distância, nível de dificuldade, tipo de paisagem):", placeholder=None)
+    localizacao = st.text_input("Digite a sua LOCALIZAÇÃO:")
+    preferencias_rotas = st.text_area("Quais são suas PREFERÊNCIAS para a rota? (ex: distância, nível de dificuldade, tipo de paisagem):")
 
     if st.button("Explorar Local"):
         if not localizacao:
